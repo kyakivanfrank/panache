@@ -1,5 +1,4 @@
 {
-  "homepage": "http://kyakivanfrank.github.io/panache",
   "name": "panache",
   "private": true,
   "dependencies": {
@@ -13,8 +12,6 @@
     "smooth-scroll": "^16.1.3"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -46,8 +43,5 @@
     "events"
   ],
   "author": "@kyakivanfrank",
-  "license": "MIT",
-  "devDependencies": {
-    "gh-pages": "^3.2.3"
-  }
+  "license": "MIT"
 }
