@@ -1,0 +1,186 @@
+{
+  "Header": {
+    "title": "panache events Management",
+    "paragraph": "Come and we give you the best party experience"
+  },
+  "About": {
+    "paragraph": "Panache is a small Event Management business ran by 3 ladies called Preeti Singhvi, Anusha Kansara and Lata Reddy. It is our passion. The idea of this business was gotten when a friend of ours asked us to arrange a birthday party.",
+    "Why": [
+      "We make hand made decorations"
+    ],
+    "Why2": [
+      "We've managed to make 13 to 14 successful events"
+    ]
+  },
+  "Gallery": [
+  
+    {
+      "title": "chairs",
+      "largeImage": "img/portfolio/chairs.png",
+      "smallImage": "img/portfolio/chairs_.png"
+    }, {
+      "title": "balloons heart",
+      "largeImage": "img/portfolio/balloonHeart.png",
+      "smallImage": "img/portfolio/balloonHeart_.png"
+    }, {
+      "title": "birthday",
+      "largeImage": "img/portfolio/cartoon.png",
+      "smallImage": "img/portfolio/cartoon_.png"
+    }, {
+      "title": "reception",
+      "largeImage": "img/portfolio/reception.png",
+      "smallImage": "img/portfolio/entry_.png"
+    }, {
+      "title": "decorations",
+      "largeImage": "img/portfolio/decorD.png",
+      "smallImage": "img/portfolio/greenD.jpg"
+    }, {
+      "title": "decor",
+      "largeImage": "img/portfolio/floor.png",
+      "smallImage": "img/portfolio/floor_.png"
+    }, {
+      "title": "flowers",
+      "largeImage": "img/portfolio/flowersM.png",
+      "smallImage": "img/portfolio/flowersM_.png"
+    }, {
+      "title": "decorations",
+      "largeImage": "img/portfolio/floor.png",
+      "smallImage": "img/portfolio/floor.png"
+    }, {
+      "title": "bouquet",
+      "largeImage": "img/portfolio/bottledecor.png",
+      "smallImage": "img/portfolio/bottledecor_.png"
+    }
+    , {
+      "title": "bouquet",
+      "largeImage": "img/portfolio/bottlesA.png",
+      "smallImage": "img/portfolio/bottlesA_.png"
+    }, {
+      "title": "decorations",
+      "largeImage": "img/portfolio/decorD.png",
+      "smallImage": "img/portfolio/decorD_.png"
+    }, {
+      "title": "decor",
+      "largeImage": "img/portfolio/decorDA.png",
+      "smallImage": "img/portfolio/decorDA_.png"
+    }
+    , {
+      "title": "reception",
+      "largeImage": "img/portfolio/balloonReception.png",
+      "smallImage": "img/portfolio/balloonReception_.png"
+    }, {
+      "title": "balloons",
+      "largeImage": "img/portfolio/balloon.png",
+      "smallImage": "img/portfolio/balloon_.png"
+    }, {
+      "title": "birthday",
+      "largeImage": "img/portfolio/birthday.png",
+      "smallImage": "img/portfolio/birthday_.png"
+    }, {
+      "title": "bouquet",
+      "largeImage": "img/portfolio/bouquet.png",
+      "smallImage": "img/portfolio/bouquet_.png"
+    }, {
+      "title": "flowers",
+      "largeImage": "img/portfolio/flwers.png",
+      "smallImage": "img/portfolio/flwers_.png"
+    },{
+      "title": "flowers",
+      "largeImage": "img/portfolio/flowersM.png",
+      "smallImage": "img/portfolio/flowersM_.png"
+    },{
+      "title": "bouquet",
+      "largeImage": "img/portfolio/gunj.png",
+      "smallImage": "img/portfolio/gunj_.png"
+    },{
+      "title": "happy birthday",
+      "largeImage": "img/portfolio/happyBirthday.png",
+      "smallImage": "img/portfolio/happyBirthday_.png"
+    },{
+      "title": "our team",
+      "largeImage": "img/portfolio/ladies.png",
+      "smallImage": "img/portfolio/ladies_.png"
+    },{
+      "title": "table decor",
+      "largeImage": "img/portfolio/table.png",
+      "smallImage": "img/portfolio/table_.png"
+    },{
+      "title": "decorations",
+      "largeImage": "img/portfolio/steps.png",
+      "smallImage": "img/portfolio/steps_.png"
+    },{
+      "title": "decorations",
+      "largeImage": "img/portfolio/rangoli.png",
+      "smallImage": "img/portfolio/rangoli_.png"
+    },{
+      "title": "reception",
+      "largeImage": "img/portfolio/reception.png",
+      "smallImage": "img/portfolio/reception_.png"
+    },{
+      "title": "table decor",
+      "largeImage": "img/portfolio/table.png",
+      "smallImage": "img/portfolio/table_.png"
+    }
+
+
+  ],
+  "Services": [
+    {
+      "icon": "img/services/birthday-cake-solid.svg",
+      "name": "Birthday parties",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "img/services/praying-hands-solid.svg",
+      "name": "religious ceremonies",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "img/services/baby-carriage-solid.svg",
+      "name": "Baby showers",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "img/services/palette-solid.svg",
+      "name": "Exhibitions",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "img/services/people-carry-solid.svg",
+      "name": "Community functions",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "img/services/glass-cheers-solid.svg",
+      "name": "Others",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+    
+  ],
+  
+  "Team": [
+    {
+      "img": "img/team/preeti.jpg",
+      "name": "Preeti Singhvi",
+      "job": "Founder"
+    },
+    {
+      "img": "img/team/anusha.jpg",
+      "name": "Anusha Kansara",
+      "job": "Founder"
+    },{
+      "img": "img/team/lata.jpg",
+      "name": "Lata Reddy",
+      "job": "Founder"
+    }
+  ],
+  "Contact": {
+    "address": "Kampala, Uganda",
+    "phone": "+256 759 220504",
+    "email": "preeti.uganda@gmail.com",
+    "email2": "lata.alla@gmail.com",
+    "facebook": "https://www.facebook.com/Panache-272167993242946/",
+    "twitter": "",
+    "youtube": ""
+  }
+}
